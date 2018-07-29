@@ -1,2 +1,2 @@
-# rentalAgency
-A rental agency management application - Php made.
+# ATSCM - Atom System Clients Manager
+A clients and Invoicing Management System - Php made.
